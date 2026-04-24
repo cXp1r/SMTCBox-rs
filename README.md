@@ -1,4 +1,6 @@
 # SMTCBox
+下载安装 打开即可,用于辅助检测windows SMTC音乐协议是否正常
+
 
 一个基于 Tauri 2 + TypeScript + Rust 的 Windows 桌面工具，用来读取并展示系统当前的 SMTC（System Media Transport Controls）媒体会话信息。
 

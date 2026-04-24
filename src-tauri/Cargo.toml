@@ -1,6 +1,6 @@
 [package]
 name = "smtcbox"
-version = "0.1.0"
+version = "26.1.0"
 description = "A SMTC Box"
 authors = ["cXp1r"]
 edition = "2021"
